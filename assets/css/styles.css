@@ -226,6 +226,10 @@ img {
   color: var(--first-color);
 }
 
+.negro {
+  color: black;
+}
+
 .home__social {
   display: flex;
   flex-direction: column;
